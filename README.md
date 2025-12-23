@@ -2,7 +2,8 @@
 
 ## **0. Project Structure**
 * **./index.ipynb** - The notebook containing my work.
-* **./Benbellah owino Phase 3 Project presentation.pptx** -  My presentation for this project.
+* **./Benbellah owino Phase 3 Project presentation.pptx** -  My presentation powerpoint file for this project.
+* **./Benbellah owino Phase 3 Project presentation.pptx** -  My presentation PDF file for this project.
 *  **./Benbellah Owino Phase 4 nb.pdf** - The index notebook in PDF format.
 *  **README.md** - The markdown for this project providing an overview of the project.
 *  **./data** - Folder containing our data source/s
