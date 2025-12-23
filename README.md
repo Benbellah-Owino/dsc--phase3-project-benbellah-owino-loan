@@ -1,9 +1,11 @@
 # **PHASE 3 CLASSIFICATION PROJECT by Benbellah Owino**
 
 ## **1. Business Understanding**<hr>
+### *Client**
+Mouz Bank is a rapidly expanding retail and commercial bank that prioritizes quick, ethical financing via online platforms. The bank is implementing data-driven algorithms to enhance credit choices, control risk, and guarantee equitable loan approvals in order to support its growing loan portfolio.
 
 ### *Business problem*<br>
-Our client, Mouz Bank, want's a model to easen the loan approval process. We will be using the model below to build a model that fulfil's the clients wishes.<br><br>
+Our client Mouz bank is looking for a clever way to simplify and streamline the loan approval procedure while upholding ethical lending standards. In order to achieve this goal, we will create a prediction model that analyzes applicant data and more effectively evaluates risk in order to automate and assist credit decision-making. The following model will serve as the basis for increasing approval speed, decreasing manual labor, improving decision consistency, and supporting Mouz Bank's objective of providing quicker and more equitable loan outcomes.<br><br>
 
 ### ***Objectives***
 We want a model that satisfies the following thresholds
@@ -11,7 +13,7 @@ We want a model that satisfies the following thresholds
 2. Recall  f1 score of 90%
 3. Minimum  precision score of 90%
 
-We have very high thresholds because the model will operate in a high risk high reward environment so we want to minimize the former while maximize the latter. Anything less than that is as good as useless
+We have very high thresholds because the model will operate in a high risk high reward environment so we want to minimize the former while maximize the latter. Anything less than that is as good as useless. Also the model must be good in order not to affect customer satisfication negatively.
 
 ## **2. Data understanding**
 The loan approval dataset is a collection of financial records and associated information used to determine the eligibility of individuals or organizations for obtaining loans from a lending institution. It includes various factors such as cibil score, income, employment status, loan term, loan amount, assets value, and loan status. This dataset is commonly used in machine learning and data analysis to develop models and algorithms that predict the likelihood of loan approval based on the given features.
