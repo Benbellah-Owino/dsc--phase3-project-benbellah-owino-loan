@@ -1,7 +1,15 @@
 # **PHASE 3 CLASSIFICATION PROJECT by Benbellah Owino**
 
+## **0. Project Structure**
+* **./index.ipynb** - The notebook containing my work.
+* **./Benbellah owino Phase 3 Project presentation.pptx** -  My presentation for this project.
+*  **./Benbellah Owino Phase 4 nb.pdf** - The index notebook in PDF format.
+*  **README.md** - The markdown for this project providing an overview of the project.
+*  **./data** - Folder containing our data source/s
+*  **./data/loan_approval_dataset.csv** - CSV file of the data we are working with
+
 ## **1. Business Understanding**<hr>
-### *Client**
+### *Client*
 Mouz Bank is a rapidly expanding retail and commercial bank that prioritizes quick, ethical financing via online platforms. The bank is implementing data-driven algorithms to enhance credit choices, control risk, and guarantee equitable loan approvals in order to support its growing loan portfolio.
 
 ### *Business problem*<br>
